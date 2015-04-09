@@ -1,7 +1,7 @@
 === Wordpress Traitify ===
 Contributors: smackcoders
 Donate link: http://www.smackcoders.com/donate.html
-Tags: personalityassessment, selfdiscovery, decisionmaking, personality, assessment, discovery, decision, users, people, registration, user, member, profile, wordpress, traitify, test, quiz, products, events, media, dating, solution, customers, engage, audience, Lead, students, professionals, opportunities, admin, Matchmaking, Marketing, Sales, CuratedContent
+Tags: personalityassessment, selfdiscovery, decisionmaking, personality, assessment, decision, users, people, registration, user, member, profile, wordpress, traitify, test, quiz, products, events, media, dating, solution, customers, engage, audience, Lead, students, professionals, opportunities, admin, Matchmaking, Marketing, Sales, CuratedContent
 Requires at least: 4
 Tested up to: 4.1
 Stable tag: 1.0	
